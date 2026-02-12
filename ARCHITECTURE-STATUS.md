@@ -77,5 +77,10 @@ No implementation occurs without governance completion.
 ---
 
 Human first.
-Tech second.
-Authority does not expand.
+Tech second..
+Authority does not expand...
+
+Respectfully Founder and Author,
+Brent W. Richardson
+BWR GROUP CANADA-ACAI DIVISION
+
