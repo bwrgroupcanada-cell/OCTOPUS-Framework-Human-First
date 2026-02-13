@@ -1,4 +1,6 @@
-# Misuse & Ethical Restriction Clause
+# O.C.T.O.P.U.S.
+Origin-Centered Trauma Outreach Protection Under Survivor Sight
+Misuse & Ethical Restriction Clause
 
 The Octopus Framework is licensed under the Hippocratic License 3.0.
 
