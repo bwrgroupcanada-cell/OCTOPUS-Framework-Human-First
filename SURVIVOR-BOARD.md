@@ -50,3 +50,7 @@ If a technical improvement conflicts with survivor dignity, privacy, or safety:
 Survivor dignity overrides system efficiency.
 
 Human first. Tech second.
+
+O.C.T.O.P.U.S. Framework  
+Human First. Tech Second.  
+R4.2.3-FINAL Governance Lock
