@@ -84,3 +84,7 @@ Operational deployment requires independent legal, privacy, and governance revie
 Governance Shell – Frozen  
 Guardrail DNA: R4.2.3-FINAL  
 Pilot Proposal Only
+
+O.C.T.O.P.U.S. Framework  
+Human First. Tech Second.  
+R4.2.3-FINAL Governance Lock
