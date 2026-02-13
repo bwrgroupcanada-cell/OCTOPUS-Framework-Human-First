@@ -1,4 +1,6 @@
-# Survivor Governance Board — Structural Authority Framework
+# O.C.T.O.P.U.S.
+Origin-Centered Trauma Outreach Protection Under Survivor Sight
+Survivor Governance Board — Structural Authority Framework
 
 Octopus is survivor-centered by design. Governance authority is not symbolic — it is structural.
 
