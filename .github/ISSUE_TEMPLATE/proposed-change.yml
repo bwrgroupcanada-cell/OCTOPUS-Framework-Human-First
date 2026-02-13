@@ -1,79 +1,28 @@
+---
 name: Proposed Change
-description: Propose a change to the OCTOPUS Framework (requires survivor approval)
-title: "[PROPOSED] "
-labels: ["proposed-change", "requires-survivor-approval"]
-body:
-  - type: markdown
-    attributes:
-      value: |
-        ## ⚠️ Survivor Approval Required
-        
-        All material changes to this framework require approval from survivor board members as defined in `SURVIVOR-BOARD.md`.
-        
-        **No changes will be merged without documented survivor consent.**
-  - type: textarea
-    id: description
-    attributes:
-      label: Proposed Change Description
-      description: Describe what you want to change and why
-      placeholder: Be specific about what files, logic, or language would be modified
-    validations:
-      required: true
-  - type: textarea
-    id: impact
-    attributes:
-      label: Impact Assessment
-      description: How does this change affect the framework's guardrails, consent model, or survivor protections?
-      placeholder: Consider privacy, consent, scope, autonomy, transparency
-    validations:
-      required: true
-  - type: checkboxes
-    id: guardrail-check
-    attributes:
-      label: Guardrail Alignment Check
-      description: Confirm this change does NOT violate any of the following constraints
-      options:
-        - label: Does NOT introduce new investigative powers
-          required: true
-        - label: Does NOT introduce bulk data ingestion
-          required: true
-        - label: Does NOT introduce biometric scraping, facial recognition, or watchlists
-          required: true
-        - label: Does NOT introduce risk scoring, profiling, or predictive policing
-          required: true
-        - label: Does NOT introduce mass surveillance or monitoring
-          required: true
-        - label: Does NOT introduce automated referral to law enforcement without human validation
-          required: true
-        - label: Does NOT remove or weaken mandatory human-in-the-loop requirements
-          required: true
-        - label: Does NOT reduce survivor governance authority
-          required: true
-        - label: Does NOT introduce evidentiary media ingestion, storage, or management
-          required: true
-        - label: Does NOT introduce cross-linkage of intake streams by default
-          required: true
-  - type: checkboxes
-    id: consent
-    attributes:
-      label: Consent & Governance
-      description: Required acknowledgments
-      options:
-        - label: I have reviewed `SURVIVOR-BOARD.md` and understand survivor veto authority
-          required: true
-        - label: I have reviewed `SURVIVOR-DIGNITY-COVENANT.md` and understand consent requirements
-          required: true
-        - label: I confirm this change will be submitted to survivor board members for approval before merging
-          required: true
-  - type: textarea
-    id: survivor-approval
-    attributes:
-      label: Survivor Board Approval (to be completed before merge)
-      description: Leave blank until survivor board members review and approve
-      placeholder: "Approved by: [Name/Identifier], Date: [YYYY-MM-DD]"
-  - type: markdown
-    attributes:
-      value: |
-        ---
-        **Pilot Proposal Only — Not an Operational System**  
-        This framework is released under the Hippocratic License 3.0 with non-monetized intent.
+about: Suggest a change or improvement to the project
+---
+
+## Proposed Change
+
+### Description
+
+<!-- Provide a brief description of the proposed change -->
+
+### Motivation
+
+<!-- Explain why this change is necessary -->
+
+### Does NOT reduce survivor governance authority
+- [ ] Does NOT introduce evidentiary media ingestion, storage, or management
+- [ ] Does NOT introduce cross-linkage of intake streams by default
+
+### Related issues
+
+<!-- Link related issues, if any -->
+
+### Checklist
+- [ ] Changes have been tested
+- [ ] Documentation has been updated
+- [ ] Code follows the project's coding standards
+- [ ] My code has been reviewed by at least one other contributor
